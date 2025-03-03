@@ -1,2 +1,2 @@
-# .
+# One time password client
  
